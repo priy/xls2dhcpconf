@@ -1,0 +1,7 @@
+This is a Python script
+
+It's just for dhcp3 in ubuntu 10.10 LTS by install follow command:
+    apt-get install dhcp3-server
+
+Install xlrd python package before run it.
+    apt-get install python-xlrd
